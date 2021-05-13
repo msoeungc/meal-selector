@@ -101,3 +101,11 @@ form.create-meal button {
   cursor: pointer;
   outline: none;
 }
+
+.select-container {
+  text-align: center;
+}
+
+.select {
+  margin: auto;
+}
